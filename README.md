@@ -4,7 +4,10 @@
 
 
   Install Dependencies
+  
+  
     Enter this in terminal or Command prompt to install Dependencies:
+    
     pip3 install numpy
     pip3 install pandas
     pip3 install matplotlib
