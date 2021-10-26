@@ -3,7 +3,7 @@
 2. As a part of Regression Analysis,we have built a model to predict the salaries.
 
 
- Install Dependencies
+  Install Dependencies
     Enter this in terminal or Command prompt to install Dependencies:
     pip3 install numpy
     pip3 install pandas
